@@ -8,6 +8,6 @@ Obs.: a função len retorna a quantidade
 de caracteres da str
 """
 variavel = 'Olá mundo'
-print(variavel[0:9:3)
+print(variavel[0:9:3])
 # print(variavel[::-1)
 # print(len(variavel[3]))
