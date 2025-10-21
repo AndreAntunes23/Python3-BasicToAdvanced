@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b73124-9167-4173-b304-37737453dd83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula36.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Python.aula31.executor": "Run",
     "Python.aula33.executor": "Run",
     "Python.aula35.executor": "Run",
+    "Python.aula36.executor": "Run",
     "Python.aula4.executor": "Run",
     "Python.aula5.executor": "Run",
     "Python.aula6.executor": "Run",
